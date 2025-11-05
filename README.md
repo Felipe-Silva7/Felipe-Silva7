@@ -29,6 +29,7 @@
 <p> Além disso, já palestrei um <strong>minicurso sobre Flask e APIs</strong> no IFPI - Campus Piripiri, apresentei o <strong>projeto de extensão</strong> em outro campus do IFPI (Campo Maior) e também palestrei na <strong>Campus Party</strong>(no Centro de Convenções de Teresina), compartilhando minhas experiências e aprendizados na área de desenvolvimento Back-end sempre utilizando boas práticas. </p>
 
 <p> Estou em busca da minha primeira oportunidade profissional como <strong>estagiário ou desenvolvedor júnior</strong>. Meu objetivo é aplicar minhas habilidades em um ambiente real de desenvolvimento e, no próximo ano, conciliar o trabalho com a faculdade de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>, que pretendo iniciar. </p>
+
 ---
 
 ### 🚀 Minhas Habilidades
