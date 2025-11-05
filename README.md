@@ -20,7 +20,7 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### Sobre Mim 😉
 
 <p> Atualmente, sou estudante do curso Técnico em Informática integrado ao Ensino Médio no <strong>IFPI - Campus Piripiri</strong>. Minha jornada na programação começou com uma base teórica sólida na informática e rapidamente se aprofundou com um curso de <strong>Programação Web de 240 horas no SENAC</strong>, que concluí durante meu primeiro ano no IFPI. </p>
 
@@ -32,7 +32,7 @@
 
 ---
 
-### 🚀 Minhas Habilidades
+### Minhas Habilidades 👨‍💻
 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
@@ -54,7 +54,7 @@
 
 ---
 
-### 💼 Projetos
+### Projetos 🗂️
 
 <p>
   Aqui no meu perfil estão alguns dos projetos em que trabalhei. Sinta-se à vontade para explorar!
@@ -62,7 +62,7 @@
 
 ---
 
-### 📊 Estatísticas do meu GitHub
+###  Estatísticas do meu GitHub 📊
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Silva7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
