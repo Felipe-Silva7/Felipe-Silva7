@@ -1,33 +1,34 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
-    Olá! 👋 Sou o Felipe Silva
+    Olá! Me chamo Felipe, seja bem vindo ao meu perfil!
   </h1>
   <p>
-    Desenvolvedor Back-end em formação, apaixonado por Python e por transformar ideias em soluções funcionais.
+    Sou um desenvolvedor Back-end em formação, apaixonado por Python e por transformar ideias em soluções funcionais e resolver problemas.
   </p>
 </div>
 
 <div id="badges" align="center">
+   <a href="https://www.linkedin.com/in/felipe-silva-backend/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <a href="mailto:fs0987145@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
+
 </div>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-<p>
-  Atualmente, sou estudante do curso Técnico em Informática integrado ao Ensino Médio no <strong>IFPI - Campus Piripiri</strong>. Minha jornada na programação começou com uma base teórica sólida na informática e rapidamente se aprofundou com um curso de <strong>Programação Web de 240 horas no SENAC</strong>, que concluí durante meu primeiro ano.
-</p>
-<p>
-  Embora eu tenha conhecimentos em desenvolvimento Front-end, minha verdadeira paixão está no <strong>Back-end</strong>. Gosto de construir a lógica, a estrutura e os "cérebros" por trás das aplicações. Tenho aplicado meus conhecimentos no desenvolvimento de projetos integradores e em projetos de extensão acadêmica, sempre em colaboração com professores, onde utilizo principalmente <strong>Python com o framework Flask</strong>.
-</p>
-<p>
-  Estou em busca da minha primeira oportunidade profissional como <strong>estagiário ou desenvolvedor júnior</strong>. Meu objetivo é aplicar minhas habilidades em um ambiente real de desenvolvimento e, no próximo ano, conciliar o trabalho com a faculdade de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> que pretendo iniciar.
-</p>
+<p> Atualmente, sou estudante do curso Técnico em Informática integrado ao Ensino Médio no <strong>IFPI - Campus Piripiri</strong>. Minha jornada na programação começou com uma base teórica sólida na informática e rapidamente se aprofundou com um curso de <strong>Programação Web de 240 horas no SENAC</strong>, que concluí durante meu primeiro ano no IFPI. </p>
 
+<p> Embora eu tenha conhecimentos em desenvolvimento Front-end, minha verdadeira paixão está no <strong>Back-end</strong>. Gosto de construir a lógica, a estrutura e os "cérebros" por trás das aplicações. Tenho aplicado meus conhecimentos no desenvolvimento de projetos integradores e em projetos de extensão acadêmica, sempre em colaboração com professores, utilizando principalmente <strong>Python com o framework Flask</strong>. </p> 
+
+<p> Além disso, já palestrei um <strong>minicurso sobre Flask e APIs</strong> no IFPI - Campus Piripiri, apresentei o <strong>projeto de extensão</strong> em outro campus do IFPI (Campo Maior) e também palestrei na <strong>Campus Party</strong>(no Centro de Convenções de Teresina), compartilhando minhas experiências e aprendizados na área de desenvolvimento Back-end sempre utilizando boas práticas. </p>
+
+<p> Estou em busca da minha primeira oportunidade profissional como <strong>estagiário ou desenvolvedor júnior</strong>. Meu objetivo é aplicar minhas habilidades em um ambiente real de desenvolvimento e, no próximo ano, conciliar o trabalho com a faculdade de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>, que pretendo iniciar. </p>
 ---
 
 ### 🚀 Minhas Habilidades
@@ -55,7 +56,7 @@
 ### 💼 Projetos
 
 <p>
-  Aqui estão alguns dos projetos em que trabalhei. Sinta-se à vontade para explorar!
+  Aqui no meu perfil estão alguns dos projetos em que trabalhei. Sinta-se à vontade para explorar!
 </p>
 
 ---
