@@ -1,70 +1,73 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>
-    Olá! Me chamo Felipe, seja bem vindo ao meu perfil!
-  </h1>
-  <p>
-    Sou um desenvolvedor Back-end em formação, apaixonado por Python e por transformar ideias em soluções funcionais e resolver problemas.
-  </p>
-</div>
+# Felipe Silva
 
-<div id="badges" align="center">
-   <a href="https://www.linkedin.com/in/felipe-silva-backend/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:fs0987145@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
+**Desenvolvedor Back-end Python** | Estudante de Técnico em Informática | IFPI - Campus Piripiri
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-silva-backend/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fs0987145@gmail.com)
 
 ---
 
-### Sobre Mim 😉
+## 👨‍💻 Sobre Mim
 
-<p> Atualmente, sou estudante do curso Técnico em Informática integrado ao Ensino Médio no <strong>IFPI - Campus Piripiri</strong>. Minha jornada na programação começou com uma base teórica sólida na informática e rapidamente se aprofundou com um curso de <strong>Programação Web de 240 horas no SENAC</strong>, que concluí durante meu primeiro ano no IFPI. </p>
+Desenvolvedor back-end apaixonado por transformar ideias em soluções funcionais. Minha jornada na programação combina formação técnica sólida com experiência prática em projetos reais e compartilhamento de conhecimento.
 
-<p> Embora eu tenha conhecimentos em desenvolvimento Front-end, minha verdadeira paixão está no <strong>Back-end</strong>. Gosto de construir a lógica, a estrutura e os "cérebros" por trás das aplicações. Tenho aplicado meus conhecimentos no desenvolvimento de projetos integradores e em projetos de extensão acadêmica, sempre em colaboração com professores, utilizando principalmente <strong>Python com o framework Flask</strong>. </p> 
+### 🎓 Formação e Experiência
 
-<p> Além disso, já palestrei um <strong>minicurso sobre Flask e APIs</strong> no IFPI - Campus Piripiri, apresentei o <strong>projeto de extensão</strong> em outro campus do IFPI (Campo Maior) e também palestrei na <strong>Campus Party</strong>(no Centro de Convenções de Teresina), compartilhando minhas experiências e aprendizados na área de desenvolvimento Back-end sempre utilizando boas práticas. </p>
+- **Técnico em Informática** (em andamento) - IFPI Campus Piripiri
+- **Programação Web** (240h) - SENAC
+- **Projetos Integradores e de Extensão** - Desenvolvimento com Python/Flask
+- **Palestrante**: Minicurso sobre Flask e APIs (IFPI), Campus Party Teresina
 
-<p> Estou em busca da minha primeira oportunidade profissional como <strong>estagiário ou desenvolvedor júnior</strong>. Meu objetivo é aplicar minhas habilidades em um ambiente real de desenvolvimento e, no próximo ano, conciliar o trabalho com a faculdade de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>, que pretendo iniciar. </p>
+### 🎯 Foco Atual
 
----
-
-### Minhas Habilidades 👨‍💻
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-</p>
+Busco oportunidades como **estagiário ou desenvolvedor júnior** para aplicar minhas habilidades em ambientes reais de desenvolvimento. Planejo iniciar **Análise e Desenvolvimento de Sistemas (ADS)** em 2026, conciliando estudos e prática profissional.
 
 ---
 
-### Projetos 🗂️
+## 🛠️ Stack Tecnológica
 
-<p>
-  Aqui no meu perfil estão alguns dos projetos em que trabalhei. Sinta-se à vontade para explorar!
-</p>
+**Back-end**
+- Python | Flask | APIs RESTful
+
+**Front-end**
+- HTML5 | CSS3 | JavaScript
+
+**DevOps & Cloud**
+- Docker | AWS | GCP
+
+**Ferramentas & Produtividade**
+- Git | GitHub | VS Code | Postman
+
+**Práticas de Desenvolvimento**
+- Clean Code | Design Patterns | Arquitetura de APIs | Versionamento com Git
+
+## 💼 Experiência em Projetos
+
+- Desenvolvimento de aplicações web com Flask aplicando boas práticas
+- Criação e documentação de APIs RESTful
+- Trabalho colaborativo em projetos acadêmicos de extensão
+- Apresentação técnica de projetos em eventos regionais
 
 ---
 
-###  Estatísticas do meu GitHub 📊
+## 📊 Estatísticas GitHub
 
 <div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Felipe-Silva7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Felipe-Silva7&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Felipe-Silva7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Felipe-Silva7&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+## 📫 Contato
+
+Estou aberto a oportunidades e colaborações! Entre em contato:
+
+- 📧 Email: fs0987145@gmail.com
+- 💼 LinkedIn: [felipe-silva-backend](https://www.linkedin.com/in/felipe-silva-backend/)
+
+---
+
+<div align="center">
+  <i>⭐ Sinta-se à vontade para explorar meus repositórios e entrar em contato!</i>
 </div>
