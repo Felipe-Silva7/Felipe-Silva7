@@ -13,10 +13,11 @@ Desenvolvedor back-end apaixonado por transformar ideias em soluções funcionai
 
 ### 🎓 Formação e Experiência
 
-- **Técnico em Informática** (em andamento) - IFPI Campus Piripiri
+- **Técnico em Informática** (6/6) - IFPI Campus Piripiri
 - **Programação Web** (240h) - SENAC
 - **Projetos Integradores e de Extensão** - Desenvolvimento com Python/Flask
-- **Palestrante**: Minicurso sobre Flask e APIs (IFPI), Campus Party Teresina
+- **Palestrante**: Minicurso sobre Flask e APIs (IFPIs), Campus Party Teresina
+- **Autor de Capítulo de Livro de Minicursos** – CODEC, publicado pela Sociedade Brasileira de Computação (SBC)
 
 ### 🎯 Foco Atual
 
@@ -58,6 +59,13 @@ Busco oportunidades como **estagiário ou desenvolvedor júnior** para aplicar m
 </div>
 
 ---
+<div align="center" style="border: 2px solid #4CAF50; padding: 15px; border-radius: 10px; background-color: #f9f9f9;">
+
+### 👀 Visualizações do Perfil
+
+![Profile views](https://komarev.com/ghpvc/?username=Felipe-Silva7&color=blue)
+
+</div>
 
 ## 📫 Contato
 
