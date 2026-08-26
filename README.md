@@ -2,17 +2,20 @@
 
   <!-- Header / Typing SVG -->
   <a href="https://linkedin.com/in/felipe-silva-backend">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Ol%C3%A1%2C+sou+o+Felipe+Silva;Desenvolvedor+Back-end+Python;APIs+RESTful+%7C+Flask+%7C+Arquitetura+de+Software;Focado+em+Escalabilidade+e+C%C3%B3digo+Limpo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Ol%C3%A1%2C+sou+o+Felipe+Silva+%F0%9F%91%8B;Desenvolvedor+Back-end+Python;+3+Anos+Criando+Solu%C3%A7%C3%B5es+e+APIs;Focado+em+Escalabilidade+e+C%C3%B3digo+Limpo" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Desenvolvedor Back-end Python | Estudante de Análise e Desenvolvimento de Sistemas</strong>
+    <strong>Desenvolvedor Back-end Python | +3 Anos de Experiências Práticas/Teóricas | Discente em Análise e Desenvolvimento de Sistemas</strong>
   </p>
 
-  <!-- Badges de Contato e Views -->
+  <!-- Badges de Contato, Portfólio e Views -->
   <p align="center">
     <a href="https://www.linkedin.com/in/felipe-silva-backend/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://felipedev-portfolio.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfólio_Web-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
     </a>
     <a href="mailto:fs0987145@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -26,12 +29,13 @@
 
 ### 👨‍💻 Sobre Mim
 
-Desenvolvedor Back-end com foco na criação de **APIs RESTful**, microsserviços e soluções eficientes em **Python**. Combino sólida formação técnica com experiência prática na entrega de projetos, produção acadêmica e compartilhamento de conhecimento na comunidade.
+Desenvolvedor Back-end com **mais de 3 anos de experiência prática** construindo aplicações, APIs RESTful e soluções de software desde o início da minha formação técnica (2º ano do Ensino Médio Integrado). Combino sólida disciplina de desenvolvimento com experiência real em projetos, produção acadêmica e compartilhamento de conhecimento.
 
+- 🚀 **Trajetória & Experiência (+3 Anos):** Desenvolvimento contínuo de microsserviços, automações e sistemas web práticos desde o ensino médio técnico, com foco em arquitetura limpa e regras de negócio escaláveis.
 - 🎓 **Formação:** Técnico em Informática (**IFPI**) | Cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
 - 📚 **Publicação Científica:** Autor de capítulo de livro de minicursos no **CODEC**, publicado pela **Sociedade Brasileira de Computação (SBC)**.
-- 🎤 **Palestrante:** Palestrante na **Campus Party Teresina** e instrutor de minicursos sobre Flask & APIs no IFPI.
-- 🎯 **Objetivo:** Oportunidades como **Desenvolvedor Back-end (Estágio / Júnior)** para aplicar boas práticas de desenvolvimento, padrões de projeto e testes.
+- 🎤 **Palestrante & Mentor:** Palestrante na **Campus Party Teresina** e instrutor de minicursos práticos sobre Python, Flask & APIs no IFPI.
+- 🎯 **Foco Atual:** Oportunidades como **Desenvolvedor Back-end (Estágio / Júnior)** para somar com código de qualidade, testes e boas práticas de engenharia de software.
 
 ---
 
@@ -81,21 +85,17 @@ Desenvolvedor Back-end com foco na criação de **APIs RESTful**, microsserviço
 
 ### 📌 Projetos em Destaque
 
-> 💡 **Nota aos recrutadores e visitantes:** Meus principais sistemas, APIs e arquiteturas de back-end estão **fixados logo abaixo** nesta página, com detalhes sobre regras de negócio, testes e instruções de execução.
+> 💡 **Nota aos recrutadores e visitantes:** Meus principais sistemas, APIs e arquiteturas de back-end estão **fixados logo abaixo** nesta página, com detalhes sobre regras de negócio, testes e instruções de execução. Você também pode conferir meu [**Portfólio Web Interativo**](https://felipe-silva7.github.io/portfolio/).
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/Felipe-Silva7">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Silva7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Felipe's GitHub Stats" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Silva7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felipe-Silva7&theme=tokyonight" alt="Estatísticas de Perfil" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Felipe-Silva7&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
   <br />
-  <a href="https://github.com/Felipe-Silva7">
-    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Felipe-Silva7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=Felipe-Silva7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
